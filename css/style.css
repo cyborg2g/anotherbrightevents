@@ -22,7 +22,7 @@ body{
 /* .banner{
 	width: 100%;
 	height: 75vh;
-	background: url('/images/roomred.PNG') no-repeat 0px 0px;
+	background: url('../images/roomred.PNG') no-repeat 0px 0px;
     background-size: cover;
     padding: 0em 0 4em;
 } */
@@ -35,7 +35,7 @@ body{
 	backface-visibility: hidden;
 	animation: banner 8s linear;
 	animation-timing-function: ease-in-out;
-	background-image: url('/images/roomred.PNG');
+	background-image: url('../images/roomred.PNG');
 } 
 
 /* @keyframes banner {
