@@ -35,7 +35,7 @@ body{
 	backface-visibility: hidden;
 	animation: banner 8s linear;
 	animation-timing-function: ease-in-out;
-	background-image: url('../images/roomred.png');
+	background-image: url('/images/roomred.png');
 } 
 
 /* @keyframes banner {
